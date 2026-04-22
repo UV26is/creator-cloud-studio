@@ -1,0 +1,8 @@
+# Local Python environments and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Local deployment/test helper scripts
+creator-cloud-studio/deploy-ec2.sh
+creator-cloud-studio/test-cases.sh
