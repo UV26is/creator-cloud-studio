@@ -46,6 +46,10 @@ The web interface is served from:
 http://<EC2-PUBLIC-IP>:5000/
 ```
 
+Live deployment:
+
+[http://23.22.244.137:5000/](http://23.22.244.137:5000/)
+
 Service ports:
 
 - `presentation-service`: `5000`
